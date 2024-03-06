@@ -1,0 +1,15 @@
+.container{
+    background-color: hsl(0, 0%, 12%);
+    max-width: 310px;
+    width: 90%;
+    padding: 25px;
+    border-radius:  10px;
+}
+
+.container p{
+    margin-top: 20px;
+}
+
+.container ul{
+    gap: 1rem;
+}
